@@ -1,0 +1,2 @@
+# ft_ls
+The project ft_ls opens the path to the Unix branch of the sphere system. For the first time, I had to face the one libc functions that had allowed me to do other things than just read or write on a file descriptor (this is to simplify of course). I discover a sub-system of functions of operating system’s API, the associated data structures, as well as the management of memory allocation and the associated data.
